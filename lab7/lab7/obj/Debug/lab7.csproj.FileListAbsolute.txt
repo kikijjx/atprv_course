@@ -1,0 +1,7 @@
+C:\Users\nikita\source\repos\lab7\lab7\bin\Debug\lab7.exe.config
+C:\Users\nikita\source\repos\lab7\lab7\bin\Debug\lab7.exe
+C:\Users\nikita\source\repos\lab7\lab7\bin\Debug\lab7.pdb
+C:\Users\nikita\source\repos\lab7\lab7\obj\Debug\lab7.csproj.AssemblyReference.cache
+C:\Users\nikita\source\repos\lab7\lab7\obj\Debug\lab7.csproj.CoreCompileInputs.cache
+C:\Users\nikita\source\repos\lab7\lab7\obj\Debug\lab7.exe
+C:\Users\nikita\source\repos\lab7\lab7\obj\Debug\lab7.pdb

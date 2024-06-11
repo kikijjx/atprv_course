@@ -1,0 +1,7 @@
+C:\Users\nikita\source\repos\ATPRV_lab2_bogougodno\ATPRV_lab2_bogougodno\bin\Debug\ATPRV_lab2_bogougodno.exe.config
+C:\Users\nikita\source\repos\ATPRV_lab2_bogougodno\ATPRV_lab2_bogougodno\bin\Debug\ATPRV_lab2_bogougodno.exe
+C:\Users\nikita\source\repos\ATPRV_lab2_bogougodno\ATPRV_lab2_bogougodno\bin\Debug\ATPRV_lab2_bogougodno.pdb
+C:\Users\nikita\source\repos\ATPRV_lab2_bogougodno\ATPRV_lab2_bogougodno\obj\Debug\ATPRV_lab2_bogougodno.csproj.AssemblyReference.cache
+C:\Users\nikita\source\repos\ATPRV_lab2_bogougodno\ATPRV_lab2_bogougodno\obj\Debug\ATPRV_lab2_bogougodno.csproj.CoreCompileInputs.cache
+C:\Users\nikita\source\repos\ATPRV_lab2_bogougodno\ATPRV_lab2_bogougodno\obj\Debug\ATPRV_lab2_bogougodno.exe
+C:\Users\nikita\source\repos\ATPRV_lab2_bogougodno\ATPRV_lab2_bogougodno\obj\Debug\ATPRV_lab2_bogougodno.pdb

@@ -1,0 +1,7 @@
+C:\Users\nikita\source\repos\ATPRV_lab3_2\ATPRV_lab3_2\bin\Debug\ATPRV_lab3_2.exe.config
+C:\Users\nikita\source\repos\ATPRV_lab3_2\ATPRV_lab3_2\bin\Debug\ATPRV_lab3_2.exe
+C:\Users\nikita\source\repos\ATPRV_lab3_2\ATPRV_lab3_2\bin\Debug\ATPRV_lab3_2.pdb
+C:\Users\nikita\source\repos\ATPRV_lab3_2\ATPRV_lab3_2\obj\Debug\ATPRV_lab3_2.csproj.AssemblyReference.cache
+C:\Users\nikita\source\repos\ATPRV_lab3_2\ATPRV_lab3_2\obj\Debug\ATPRV_lab3_2.csproj.CoreCompileInputs.cache
+C:\Users\nikita\source\repos\ATPRV_lab3_2\ATPRV_lab3_2\obj\Debug\ATPRV_lab3_2.exe
+C:\Users\nikita\source\repos\ATPRV_lab3_2\ATPRV_lab3_2\obj\Debug\ATPRV_lab3_2.pdb
